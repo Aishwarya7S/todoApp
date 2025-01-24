@@ -1,6 +1,6 @@
 # Todo App
 Todo App using HTML, CSS and Javascript.
-# Images
+
 Actual output
 ![Actualop1](https://github.com/user-attachments/assets/43ce2521-6e55-405c-b13f-028bf3f6ad8b)
 
